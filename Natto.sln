@@ -5,6 +5,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Natto", "Natto\Natto.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Natto.Tests", "Natto.Tests\Natto.Tests.csproj", "{0E0782D4-7622-46AE-B66D-C6AC747B68F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Natto.Repository", "Natto.Repository\Natto.Repository.csproj", "{3D74E513-CFDE-44E4-B84B-D6216D49A6D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Natto.Services", "Natto.Services\Natto.Services.csproj", "{E8409BC7-A42B-421B-958B-FB4F20A887DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Natto.Controllers", "Natto.Controllers\Natto.Controllers.csproj", "{B5043D0D-4962-4C6C-84F3-D8D72CCFAFCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Natto.Infrastructure", "Natto.Infrastructure\Natto.Infrastructure.csproj", "{8727EF4F-285C-475E-B550-3D32FDDD8449}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Natto.Models", "Natto.Models\Natto.Models.csproj", "{296CE9B1-C06D-471E-BFEA-5522CE6C6667}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +29,26 @@ Global
 		{0E0782D4-7622-46AE-B66D-C6AC747B68F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E0782D4-7622-46AE-B66D-C6AC747B68F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E0782D4-7622-46AE-B66D-C6AC747B68F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D74E513-CFDE-44E4-B84B-D6216D49A6D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D74E513-CFDE-44E4-B84B-D6216D49A6D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D74E513-CFDE-44E4-B84B-D6216D49A6D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D74E513-CFDE-44E4-B84B-D6216D49A6D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8409BC7-A42B-421B-958B-FB4F20A887DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8409BC7-A42B-421B-958B-FB4F20A887DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8409BC7-A42B-421B-958B-FB4F20A887DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8409BC7-A42B-421B-958B-FB4F20A887DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5043D0D-4962-4C6C-84F3-D8D72CCFAFCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5043D0D-4962-4C6C-84F3-D8D72CCFAFCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5043D0D-4962-4C6C-84F3-D8D72CCFAFCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5043D0D-4962-4C6C-84F3-D8D72CCFAFCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8727EF4F-285C-475E-B550-3D32FDDD8449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8727EF4F-285C-475E-B550-3D32FDDD8449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8727EF4F-285C-475E-B550-3D32FDDD8449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8727EF4F-285C-475E-B550-3D32FDDD8449}.Release|Any CPU.Build.0 = Release|Any CPU
+		{296CE9B1-C06D-471E-BFEA-5522CE6C6667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{296CE9B1-C06D-471E-BFEA-5522CE6C6667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{296CE9B1-C06D-471E-BFEA-5522CE6C6667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{296CE9B1-C06D-471E-BFEA-5522CE6C6667}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

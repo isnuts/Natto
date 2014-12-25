@@ -1,0 +1,5 @@
+c:\Users\Natapon.CBK\documents\visual studio 2012\Projects\Natto\Natto.Controllers\bin\Debug\Natto.Controllers.dll
+c:\Users\Natapon.CBK\documents\visual studio 2012\Projects\Natto\Natto.Controllers\bin\Debug\Natto.Controllers.pdb
+c:\Users\Natapon.CBK\documents\visual studio 2012\Projects\Natto\Natto.Controllers\obj\Debug\Natto.Controllers.csprojResolveAssemblyReference.cache
+c:\Users\Natapon.CBK\documents\visual studio 2012\Projects\Natto\Natto.Controllers\obj\Debug\Natto.Controllers.dll
+c:\Users\Natapon.CBK\documents\visual studio 2012\Projects\Natto\Natto.Controllers\obj\Debug\Natto.Controllers.pdb

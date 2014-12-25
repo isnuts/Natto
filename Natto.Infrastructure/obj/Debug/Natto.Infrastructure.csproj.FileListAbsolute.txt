@@ -1,0 +1,9 @@
+c:\Users\Natapon.CBK\documents\visual studio 2012\Projects\Natto\Natto.Infrastructure\bin\Debug\Natto.Infrastructure.dll
+c:\Users\Natapon.CBK\documents\visual studio 2012\Projects\Natto\Natto.Infrastructure\bin\Debug\Natto.Infrastructure.pdb
+c:\Users\Natapon.CBK\documents\visual studio 2012\Projects\Natto\Natto.Infrastructure\obj\Debug\Natto.Infrastructure.dll
+c:\Users\Natapon.CBK\documents\visual studio 2012\Projects\Natto\Natto.Infrastructure\obj\Debug\Natto.Infrastructure.pdb
+C:\Users\Natapon.CBK\documents\visual studio 2012\Projects\Natto\Natto.Infrastructure\obj\Debug\Natto.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Natapon.CBK\documents\visual studio 2012\Projects\Natto\Natto.Infrastructure\bin\Debug\Natto.Infrastructure.dll.config
+C:\Users\Natapon.CBK\documents\visual studio 2012\Projects\Natto\Natto.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\Natapon.CBK\documents\visual studio 2012\Projects\Natto\Natto.Infrastructure\bin\Debug\System.Data.Entity.Repository.dll
+C:\Users\Natapon.CBK\documents\visual studio 2012\Projects\Natto\Natto.Infrastructure\bin\Debug\EntityFramework.xml

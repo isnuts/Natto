@@ -1,0 +1,12 @@
+c:\Users\Natapon.CBK\documents\visual studio 2012\Projects\Natto\Natto.Models\bin\Debug\Natto.Models.dll.config
+c:\Users\Natapon.CBK\documents\visual studio 2012\Projects\Natto\Natto.Models\bin\Debug\Natto.Models.dll
+c:\Users\Natapon.CBK\documents\visual studio 2012\Projects\Natto\Natto.Models\bin\Debug\Natto.Models.pdb
+c:\Users\Natapon.CBK\documents\visual studio 2012\Projects\Natto\Natto.Models\bin\Debug\EntityFramework.dll
+c:\Users\Natapon.CBK\documents\visual studio 2012\Projects\Natto\Natto.Models\bin\Debug\EntityFramework.xml
+c:\Users\Natapon.CBK\documents\visual studio 2012\Projects\Natto\Natto.Models\obj\Debug\Natto.Models.csprojResolveAssemblyReference.cache
+c:\Users\Natapon.CBK\documents\visual studio 2012\Projects\Natto\Natto.Models\obj\Debug\Natto.Models.dll
+c:\Users\Natapon.CBK\documents\visual studio 2012\Projects\Natto\Natto.Models\obj\Debug\Natto.Models.pdb
+C:\Users\Natapon.CBK\documents\visual studio 2012\Projects\Natto\Natto.Models\bin\Debug\NattoDB.mdf
+C:\Users\Natapon.CBK\documents\visual studio 2012\Projects\Natto\Natto.Models\bin\Debug\NattoDB_log.ldf
+C:\Users\Natapon.CBK\documents\visual studio 2012\Projects\Natto\Natto.Models\bin\Debug\Natto.Infrastructure.dll
+C:\Users\Natapon.CBK\documents\visual studio 2012\Projects\Natto\Natto.Models\bin\Debug\Natto.Infrastructure.pdb
