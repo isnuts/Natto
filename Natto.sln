@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Natto", "Natto\Natto.csproj", "{ABB34388-4B3B-4861-A37C-C639510681A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Natto.Tests", "Natto.Tests\Natto.Tests.csproj", "{0E0782D4-7622-46AE-B66D-C6AC747B68F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABB34388-4B3B-4861-A37C-C639510681A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB34388-4B3B-4861-A37C-C639510681A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB34388-4B3B-4861-A37C-C639510681A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB34388-4B3B-4861-A37C-C639510681A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E0782D4-7622-46AE-B66D-C6AC747B68F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E0782D4-7622-46AE-B66D-C6AC747B68F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E0782D4-7622-46AE-B66D-C6AC747B68F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E0782D4-7622-46AE-B66D-C6AC747B68F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
